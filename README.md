@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![Platform](https://img.shields.io/cocoapods/p/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 
+## Overview
+This is an example of how to create a Cocoapods project, based on Andy Obusek's post [Creating your first CocoaPods](https://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332).
+It is updated for Xcode 9 and Swift 4.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
